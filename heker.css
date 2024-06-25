@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+}
+
+.profile {
+    text-align: center;
+    
+}
+
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 10px 0;
+    font-size: 24px;
+    color: white;
+}
+
+p {
+    margin: 5px 0;
+    font-size: 16px;
+    color: white;
+}
